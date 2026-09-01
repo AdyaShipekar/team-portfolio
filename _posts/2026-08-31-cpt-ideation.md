@@ -7,11 +7,10 @@ codemirror: true
 permalink: /ideation
 ---
 
-## **Our Option: InTune (Music Recommendation System)**
+## **Option 1: Sentri (Poway Recovery Center)**
 
 
-## **Our Option: InTune (Music Recommendation System)**
-
+## **Option 2: Safe Passage Heals**
 
 
 ## **Our Option: InTune (Music Recommendation System)**
