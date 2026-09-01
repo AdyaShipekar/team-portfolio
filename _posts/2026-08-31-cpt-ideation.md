@@ -1,11 +1,11 @@
 ```markdown
 ---
-layout:post
-title:Nonprofit Ideation
-description:Our ideation process for the two nonprofits we selected, as well as our own idea.
-breadcrumb:true
-codemirror:true
-permalink:/ideation
+layout: post
+title: Nonprofit Ideation
+description: Our ideation process for the two nonprofits we selected, as well as our own idea.
+breadcrumb: true
+codemirror: true
+permalink: /ideation
 ---
 
 ## **Option 1: Sentri (Poway Recovery Center)**
