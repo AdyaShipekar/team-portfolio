@@ -116,7 +116,7 @@ permalink: /ideation
 
 ## Option 3: InTune (Music Recommendation System)
 **Mood-Based Music Recommender**
-
+Kanban board- InTune - CSP CPT Concept Planning: [click here](https://github.com/users/AdyaShipekar/projects/5) 
 ### Core Pipeline
 Emotion/Effect → Apple Music API → Score (traits + popularity + ratings) → Ranked List
 
