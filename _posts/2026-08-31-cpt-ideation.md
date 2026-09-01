@@ -7,14 +7,14 @@ codemirror: true
 permalink: /ideation
 ---
 
-## Option 1: Sentri (Poway Recovery Center)
+## **Our Option: InTune (Music Recommendation System)**
 
 
-## Option 2: Safe Passage Heals
+## **Our Option: InTune (Music Recommendation System)**
 
 
 
-## Our Option: InTune (Music Recommendation System)
+## **Our Option: InTune (Music Recommendation System)**
 
 ### Concept
  
@@ -77,7 +77,7 @@ We plan to use an LLM to be able to TAKE your desired effect and CONVERT it into
 #### Additional filters
 - Genre
 - Age group / era
-- **Avoid lyrics** — instrumental-only toggle. Useful for focus and study use cases, and worth building in early rather than bolting on. Depends on whether the API exposes a reliable instrumental flag; may need a fallback heuristic.
+- Avoid lyrics — instrumental-only toggle. Useful for focus and study use cases.
 ---
  
 ### Variables & Classes
@@ -105,9 +105,9 @@ Popularity alone will push everything toward the same few hundred tracks. Trait 
  
 ### Future Directions
  
-#### Spotify integration
-Link a Spotify account and export selected songs directly into a generated playlist. Turns the output from a list you read into something you actually keep.
- 
+#### App integration
+Link a Spotify/Apple Music account and export selected songs directly into a generated playlist. Turns the output from a list you read into something you actually keep.
+
 #### LLM situation matching
 Let users describe a *situation* in natural language — "studying for an exam tomorrow," "long drive at night," "cleaning the apartment" — and have an LLM map it to the appropriate mood, genre, and age group, then feed that into the existing pipeline. This handles the long tail of contexts that a fixed mood menu can't cover, and it reuses the whole backend as-is.
  
