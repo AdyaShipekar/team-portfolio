@@ -75,6 +75,30 @@ permalink: /ideation
 ## Option 1: Sentri (Poway Recovery Center)
 **Addiction Recovery Platform**
 
+## New and Improved Ideation Features
+
+### Interactive Healing & AI Support
+- **The Mood Room:** Users type their current situation, and an LLM categorizes their mood. They enter a digital "room" with curated therapeutic music (via Apple API) and a lyrics on/off toggle.
+- **Trauma-Informed AI Bot:** A confidential bot built on addiction neuroscience. It understands withdrawal, de-escalates triggers without gaslighting, and connects users to real resources.
+
+### Progress Tracking & Milestones
+- **Holistic Weekly Check-Ins:** Users rate metrics (sleep, anxiety, hope, focus) on a 1-5 scale across physical, emotional, mental, and spiritual health.
+- **Visual Data & Alerts:** Dashboards show visual proof of recovery trends (e.g., "sleep improved, anxiety high"). Automatically alerts linked counselors if metrics drop dangerously low.
+
+### Storytelling & Safe Community
+- **Recovery Journey Gallery:** A front-page impact showcase where survivors share before/during/after snapshots so newcomers can see what real recovery timelines look like.
+- **Anonymous Reflection Wall:** A low-pressure board for sharing micro-wins ("I laughed today") to destigmatize the journey and build community.
+
+### Public Education & Outreach
+- **Interactive Schedule:** Improve upon the previous schedule to include number of spots available at each meeting and working sign-ups.
+- **Ways to Help & Resource Directory:** Clear donation and volunteer campaigns for the public, alongside a vetted directory for local mental health and clinical crisis resources.
+
+### Implementations
+- Overlay Feature text over
+- Gratitude jar
+- Interactive Background
+- Phone number hotline (important)
+
 ### Core Features
 - **Low-Cognitive-Load Meeting Finder** — One question per screen, simple routing (self vs loved one)
 - **Sobriety Garden Tracker** — Visual, shame-free progress (relapse = season shift, not reset)
